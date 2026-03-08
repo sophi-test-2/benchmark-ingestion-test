@@ -1,1 +1,0 @@
-This is a test document for verifying ingestion pipelines. It contains sample text about AI and machine learning benchmarks.
